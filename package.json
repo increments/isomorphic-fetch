@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/matthew-andrews/isomorphic-fetch/issues",
   "dependencies": {
-    "node-fetch": "^1.0.1",
+    "node-fetch": "increments/node-fetch#use-request",
     "whatwg-fetch": "^0.8.2"
   },
   "devDependencies": {
